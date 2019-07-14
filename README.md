@@ -13,3 +13,11 @@ So, to build this library, you should define these macro in your preprocessor op
 #define ANSI_DECLARATORS
 #define TRILIBRARY
 ```
+
+# How to use  
+To use triangle library in your project, define the following macros.  
+```c++
+#define ANSI_DECLARATORS
+#define REAL double
+#define VOID int
+```
